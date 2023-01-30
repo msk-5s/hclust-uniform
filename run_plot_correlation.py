@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: BSD-3-Clause
 
 """
 This script makes a heatmap plot of a correlation matrix of the load voltages.
